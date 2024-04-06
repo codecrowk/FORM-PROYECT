@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "012a69beeca2f8d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f11793f140205af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5cc243a88875375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matern Language/Como ha influido el anime dentro de la industria tecnologica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f699f9e336e100c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eb54e3a0c56547a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd6aac48af246a65",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d9bda9bdfa3f1a1e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bc50b9bf05fe18d8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f3000a05fab2a949",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "671c965833dc2ac7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b0296d87caddce28",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7104131d1f23150f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2a71c771d3c2368e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f699f9e336e100c4",
+  "lastOpenFiles": [
+    "Matern Language/Como ha influido el anime dentro de la industria tecnologica.md",
+    "Untitled.md",
+    "Matern Language/Fuentes academicas.md",
+    "Human development/Identificacion inconciente.md",
+    "Matern Language",
+    "Math/Untitled.md",
+    "Human development",
+    "I clone a remote repository.md",
+    "Math"
+  ]
+}
