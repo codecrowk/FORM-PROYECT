@@ -14,6 +14,7 @@ A multiplication sentence is a type of equation made up of 3 numbers. It represe
 
 Each part of the multiplication sentence has a specific name, as shown in the figure below:
 
+![[multiplication.jpg]]
 
 In a multiplication sentence, the second factor is referred to as the multiplicand. It is the number that is multiplied by the first factor, referred to as the multiplier. However, since multiplication exhibits the commutative property, which means that the position of either of the two factors in a multiplication problem can be switched, the terms multiplicand and multiplier can be ambiguous. As discussed above, the first factor is often presented as the group of objects while the second factor is presented as the number of objects in each group; this can be helpful when first teaching or learning multiplication sentences, but due to the commutative property, this is not something that is typically carried through as a student progresses in their mathematical studies.
 
