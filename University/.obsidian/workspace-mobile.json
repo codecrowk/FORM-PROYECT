@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matern Language/Como ha influido el anime dentro de la industria tecnologica.md",
+                "file": "Untitled.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752601e6548c83e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Riwi coder/tecnologias.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -25,8 +38,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multiplication Sentece.md",
+                "file": "English/My problem (class activity).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -98,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Math/Multiplication Sentece.md",
+            "file": "Riwi coder/tecnologias.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Math/Multiplication Sentece.md",
+            "file": "Riwi coder/tecnologias.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Math/Multiplication Sentece.md"
+            "file": "Riwi coder/tecnologias.md"
           }
         }
       }
@@ -144,20 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f699f9e336e100c4",
+  "active": "752601e6548c83e7",
   "lastOpenFiles": [
-    "Math/Repeated Addition.md",
-    "Math/Zero property of multiplication.md",
-    "Images/multiplication.jpg",
-    "Images/cero_multiplication.jpg",
-    "Untitled.md",
+    "Sistemas operativos/Arduino y sistemas operativos.md",
+    "Riwi coder/tecnologias.md",
+    "Riwi coder",
+    "English/My problem (class activity).md",
+    "Sistemas operativos",
+    "Matern Language/Untitled.md",
+    "Human development/Las emociones.md",
+    "Matern Language/Como ha influido el anime dentro de la industria tecnologica 1.md",
     "Matern Language/Como ha influido el anime dentro de la industria tecnologica.md",
+    "Teoria General Sistemas/Sistema complejo vs complicado.md",
+    "Teoria General Sistemas/taller 5.md",
+    "Math/Combining like terms.md",
+    "Images/terms.jpg",
+    "Untitled.md",
+    "Math/Varible.md",
+    "Reading club/Songs Karaoke.md",
+    "Format notes obsidian.md",
+    "English",
+    "I clone a remote repository.md",
+    "Images/Quadratic-Formula.png",
+    "Math/Algebra.md",
+    "Math/Zero property of multiplication.md",
+    "Math/Repeated Addition.md",
+    "Math/Multiplication Sentece.md",
     "Matern Language/Fuentes academicas.md",
     "Human development/Identificacion inconciente.md",
+    "Reading club",
+    "Teoria General Sistemas",
+    "Images/multiplication.jpg",
+    "Images/cero_multiplication.jpg",
     "Matern Language",
-    "Math/Untitled.md",
     "Human development",
-    "I clone a remote repository.md",
     "Math"
   ]
 }
